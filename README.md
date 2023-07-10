@@ -7,13 +7,13 @@ A JavaScript package for non-browser environments that leverages [Genius API](ht
 Install with npm
 
 ```js
-npm install --save genius-lyrics-api
+npm install --save genius-lyrics-api-mod
 ```
 
 Or install with Yarn
 
 ```js
-yarn add genius-lyrics-api
+yarn add genius-lyrics-api-mod
 ```
 
 ## Usage
