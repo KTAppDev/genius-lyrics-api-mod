@@ -1,3 +1,4 @@
+## WORKING!
 # genius-lyrics-api [![npm version](https://img.shields.io/npm/v/genius-lyrics-api.svg?style=flat)](https://www.npmjs.com/package/genius-lyrics-api)
 
 A JavaScript package for non-browser environments that leverages [Genius API](https://genius.com/developers) to find (and scrape) song lyrics and album covers.<br/>
